@@ -5,7 +5,7 @@ A simple live email validation tool built using HTML, CSS, and JavaScript.
 ## Features
 - ✔ Real-time email validation
 - 🌐 Supports specific domains (e.g., gmail.com, yahoo.com, srmist.edu.in)
-- 🔴 Red cross for invalid, ✅ green tick for valid
+- 🔴 Red for invalid, ✅ green for valid
 - 💡 Beginner-friendly front-end project
 
 ## Domains Supported
