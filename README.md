@@ -16,4 +16,4 @@ A simple live email validation tool built using HTML, CSS, and JavaScript.
 
 
 ## Live Demo
-[View on GitHub Pages](https://your-username.github.io/email-checker)
+[View on GitHub Pages]([https://your-username.github.io/email-checker](https://harshh-2.github.io/Email-Validator/))
